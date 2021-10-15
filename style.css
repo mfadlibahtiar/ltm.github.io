@@ -1,0 +1,37 @@
+.jumbotron {
+  background-image: url(img/jmb3.jpg);
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 645px;
+}
+section {
+  padding-top: 6rem;
+}
+#services p {
+  text-align: justify;
+  font-style: italic;
+}
+.img-thumbnail {
+  height: 215px;
+  width: 275px;
+}
+.nav-item {
+  padding-right: 1rem;
+}
+.alamat {
+  background-color: rgb(216, 216, 216);
+  padding-top: 1rem;
+}
+.about {
+  padding-top: 2rem;
+}
+.lead {
+  color: rgb(0, 102, 255);
+  font-weight: bold;
+}
+.jmb {
+  font-size: 60px;
+  font-weight: bold;
+  color: azure;
+}
